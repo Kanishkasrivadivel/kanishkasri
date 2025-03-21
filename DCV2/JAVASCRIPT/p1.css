@@ -1,0 +1,54 @@
+*{
+    margin:0;
+    padding:0;
+}
+body {
+    
+    background-image: url('blue-and-white-cool-trucks-w4gng2zkc74ab1tx.jpg'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+}
+.homepage{
+    
+    background: color rgba(255,0,0,0);
+    color: white;
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    
+}
+
+nav{
+    background: rgba(192, 192, 192, 0.5); 
+    color: black;
+    padding: 10px;
+}
+li,h1,ul{
+    text-align: center;
+}
+
+
+li{
+    color:black;
+    cursor: pointer;
+}
+
+li:hover{
+    color:white;
+}
+
+
+#submit-button {
+    background-color:white;
+    color: black;
+    border-style:solid;
+    border: 4px solid black;
+    border-radius: 40px;
+    width:100px;
+    height: 50px;
+}
+
+button{
+    display:inline;
+   
+}
